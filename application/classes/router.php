@@ -23,7 +23,17 @@
          * @var string
          */
         private $request;
+        /**
+         * Storing user class object
+         * 
+         * @var object
+         */
         private $user;
+        /**
+         * Storing database class object
+         * 
+         * @var object
+         */
         private $db;
         /**
          * @return void
