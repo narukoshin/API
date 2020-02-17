@@ -1,4 +1,4 @@
-<h2>My first REST API</h2>
+<h2>My first API</h2>
 <p>What I learned by making this project?</p>
 
 <li>How to work with php://input</li>
