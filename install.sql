@@ -14,6 +14,5 @@ CREATE TABLE IF NOT EXISTS `users` (
 -- inserting users...
 INSERT INTO `users` (`id`, `name`, `age`, `job`) VALUES
     (1, 'Yuu Hirokabe', 18, 'Programmer'),
-    (2, 'The CrackX', 17, 'Cryptographer'),
-    (3, 'Rūtolf', 16, 'Hacker'),
-    (3, 'Gundega', 22, 'Beginner hacker')
+    (2, 'CrackX', 17, 'Cryptographer'),
+    (3, 'K4LI L1nux', 16, 'Hacker')
